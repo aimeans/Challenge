@@ -1,1 +1,1 @@
-# basic challenge
+# Loan analyzer
